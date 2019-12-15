@@ -5,4 +5,4 @@
 
 - Clone this repo.
 - Setup your firebase project for both Email/Password signin and Google Signin.
-- Add required dependencies.
+- Add required packages.
